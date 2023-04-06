@@ -29,7 +29,7 @@ body {
     font-size: 28px;
   }
   
-  h1 {
+   h1 {
     color: #B39DDD;
     font-size: 10rem;
     line-height: 0;
@@ -39,7 +39,7 @@ body {
     text-align: center;
   }
 
-  @media only screen and (max-width: 768px) {
+  @media only screen and (max-width: 600px) {
     .h1 {
       font-size: 2rem;
       margin: 1rem 0;
