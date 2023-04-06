@@ -9,7 +9,7 @@ body {
     border: dotted lightgreen 6px;
     border-bottom: none;
     width: 10%;
-    margin-bottom: 90px;
+    margin-bottom: px;
   }
   
   .neoma {
@@ -38,7 +38,13 @@ body {
     font-family: "Sacramento", cursive;
     text-align: center;
   }
-  
+
+  @media only screen and (max-width: 768px) {
+    .heading {
+      font-size: 2rem;
+      margin: 1rem 0;
+    }
+  }
   
   h2 {
     color: #B39DDD;
