@@ -31,11 +31,12 @@ body {
   
   h1 {
     color: #B39DDD;
-    font-size: 150px;
     line-height: 0;
-    padding-top: 170px;
-    margin-top: 0;
     font-family: "Sacramento", cursive;
+    font-size: 150px;
+    font-weight: normal;
+    text-align: center;
+   padding-top: 30px;
   }
   
   
